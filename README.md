@@ -9,3 +9,7 @@
 
 # Hardware
 * https://store.particle.io
+
+# History
+## 2013
+* https://www.kickstarter.com/projects/sparkdevices/spark-core-wi-fi-for-everything-arduino-compatible
